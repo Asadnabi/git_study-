@@ -1,1 +1,2 @@
 checking diff b/w fetch and pull
+now checking git pull
